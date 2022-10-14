@@ -1,0 +1,12 @@
+
+img {
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+tr {
+  display: inline-block;
+  margin: 30px;
+}
